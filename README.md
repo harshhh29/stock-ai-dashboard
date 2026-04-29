@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+https://harshhh29-stock-ai-dashboard-app-isyzan.streamlit.app
+
 # 🧠 AI Stock Intelligence Dashboard
 
 This project is a machine learning-based stock analysis system built using Python and Streamlit.
